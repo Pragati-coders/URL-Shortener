@@ -112,3 +112,16 @@ Contributions, issues, and feature requests are welcome. Feel free to open a pul
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+# 👩‍💻 Author
+
+### Pragati 
+
+Full Stack Developer 
+
+- 💼 Open to Software Engineering Opportunities
+- 🌎 India
+- 💻 Passionate about Scalable Web Applications
+- 🚀 Building Production-Ready SaaS Products
