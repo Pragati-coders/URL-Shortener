@@ -125,3 +125,27 @@ Full Stack Developer
 - 🌎 India
 - 💻 Passionate about Scalable Web Applications
 - 🚀 Building Production-Ready SaaS Products
+
+ ---
+
+# ⭐ Show Your Support
+
+If you found this project helpful,
+
+⭐ Star this repository
+
+🍴 Fork this repository
+
+🐛 Report Issues
+
+💡 Share Feedback
+
+---
+
+<div align="center">
+
+### 🚀 Built with ❤️ using Next.js 15, TypeScript, Prisma & Supabase
+
+**If you like this project, don't forget to leave a ⭐ on GitHub!**
+
+</div>
