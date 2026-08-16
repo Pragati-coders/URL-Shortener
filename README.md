@@ -122,7 +122,6 @@ This project is open source and available under the [MIT License](LICENSE).
 Full Stack Developer 
 
 - 💼 Open to Software Engineering Opportunities
-- 🌎 India
 - 💻 Passionate about Scalable Web Applications
 - 🚀 Building Production-Ready SaaS Products
 
