@@ -143,7 +143,7 @@ If you found this project helpful,
 
 <div align="center">
 
-### 🚀 Built with ❤️ using React, Tailwind CSS, Shadcn UI, and Supabase
+### 🚀 Built with ❤️ using React, Tailwind CSS, Shadcn UI, and Supabase.
 
 **If you like this project, don't forget to leave a ⭐ on GitHub!**
 
